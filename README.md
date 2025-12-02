@@ -51,10 +51,10 @@
 <div align="center">
 
 <!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omuraro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omuraro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <!-- Langs -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omuraro&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omuraro&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <!-- Streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=omuraro&theme=tokyonight&hide_border=true"/>
