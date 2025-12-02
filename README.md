@@ -70,4 +70,6 @@ Busco sempre melhorar minhas práticas de desenvolvimento, escrever código limp
 
 ---
 
-<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/index.js" />
+<img src="https://github-readme-stats-rouge-xi-61.vercel.app/api?username=omuraro&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-rouge-xi-61.vercel.app/api/top-langs/?username=omuraro&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=omuraro&theme=tokyonight&hide_border=true" />
