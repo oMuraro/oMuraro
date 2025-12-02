@@ -47,19 +47,19 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <div align="center">
 
-<!-- Stats -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omuraro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<!-- Streak (FUNCIONA 100%) -->
+<img height="180em" src="https://streak-stats.demolab.com?user=omuraro&theme=tokyonight&hide_border=true" />
 
-<!-- Langs -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omuraro&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Profile Summary -->
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omuraro&theme=tokyonight" />
 
-<!-- Streak -->
-<img height="180em" src="https://streak-stats.demolab.com?user=omuraro&theme=tokyonight&hide_border=true"/>
+<!-- Linguagens -->
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omuraro&theme=tokyonight" />
 
 </div>
+
 
 ---
 
@@ -69,7 +69,3 @@ Gosto de transformar ideias em código, aprender novas tecnologias e construir p
 Busco sempre melhorar minhas práticas de desenvolvimento, escrever código limpo e trabalhar com boas metodologias.
 
 ---
-
-<img src="https://github-readme-stats-rouge-xi-61.vercel.app/api?username=omuraro&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats-rouge-xi-61.vercel.app/api/top-langs/?username=omuraro&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=omuraro&theme=tokyonight&hide_border=true" />
