@@ -70,4 +70,4 @@ Busco sempre melhorar minhas práticas de desenvolvimento, escrever código limp
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=omuraro" />
+<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/index.js" />
