@@ -69,3 +69,5 @@ Gosto de transformar ideias em código, aprender novas tecnologias e construir p
 Busco sempre melhorar minhas práticas de desenvolvimento, escrever código limpo e trabalhar com boas metodologias.
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=omuraro" />
